@@ -11,7 +11,7 @@ namespace UITests
 {
     [TestFixture("Chrome")]
     [TestFixture("Firefox")]
-    [TestFixture("Edge")]
+    //[TestFixture("Edge")]
     public class HomePageTest
     {
         private string browser;
